@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43ce4ad-af2d-450c-8b95-3e7bdfb6196b" name="Changes" comment="added TextBoxTest">
-      <change afterPath="$PROJECT_DIR$/src/test/java/locators/CssXpathExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/homework/RegFormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/Users/jakhongirrazzakov/Desktop/IDEA/demoqa-test/.idea",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -74,7 +77,7 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.TextBoxTest">
+  <component name="RunManager" selected="Gradle.RegFormTest.regFormTest">
     <configuration name="FirstJUnitTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -113,6 +116,30 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;junit.FirstJUnitTest.firstTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>true</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="RegFormTest.regFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;homework.RegFormTest.regFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -173,6 +200,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RegFormTest.regFormTest" />
         <item itemvalue="Gradle.TextBoxTest" />
         <item itemvalue="Gradle.TextBoxTest.fillFormTest" />
         <item itemvalue="Gradle.FirstJUnitTest" />
@@ -217,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688027115539</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added TextBoxTest">
+      <created>1688028162308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688028162308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
