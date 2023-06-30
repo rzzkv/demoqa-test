@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c43ce4ad-af2d-450c-8b95-3e7bdfb6196b" name="Changes" comment="added TextBoxTest">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homework/RegFormTest.java" afterDir="false" />
+    <list default="true" id="c43ce4ad-af2d-450c-8b95-3e7bdfb6196b" name="Changes" comment="added regFormTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/regForm/RegFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/regForm/RegFormTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +21,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -59,26 +61,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/jakhongirrazzakov/Desktop/IDEA/demoqa-test/.idea",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jakhongirrazzakov/Desktop/IDEA/demoqa-test/src/test/java/homework&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/homework" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RegFormTest.regFormTest">
-    <configuration name="FirstJUnitTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.RegFormTest.regFormTest (1)">
+    <configuration name="RegFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -91,7 +94,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;junit.FirstJUnitTest&quot;" />
+            <option value="&quot;homework.RegFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -102,7 +105,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="FirstJUnitTest.firstTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RegFormTest.regFormTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -115,7 +118,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;junit.FirstJUnitTest.firstTest&quot;" />
+            <option value="&quot;regForm.RegFormTest.regFormTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -200,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RegFormTest.regFormTest (1)" />
+        <item itemvalue="Gradle.RegFormTest" />
         <item itemvalue="Gradle.RegFormTest.regFormTest" />
         <item itemvalue="Gradle.TextBoxTest" />
         <item itemvalue="Gradle.TextBoxTest.fillFormTest" />
-        <item itemvalue="Gradle.FirstJUnitTest" />
-        <item itemvalue="Gradle.FirstJUnitTest.firstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688028162308</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added regFormTest">
+      <created>1688057783111</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688057783111</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -260,6 +270,7 @@
     <MESSAGE value="added build." />
     <MESSAGE value="added JUnit" />
     <MESSAGE value="added TextBoxTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="added TextBoxTest" />
+    <MESSAGE value="added regFormTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="added regFormTest" />
   </component>
 </project>

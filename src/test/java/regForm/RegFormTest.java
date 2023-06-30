@@ -25,7 +25,7 @@ public class RegFormTest {
         String nameFile = "Img.jpg";
         String currentAddress = "Mustakillik st. 52/17";
 
-        open("https://demoqa.com/automation-practice-form");
+        open(" ");
         $("h5").shouldHave(text("Student Registration Form"));
 
         $("#firstName").setValue(firstName);
@@ -59,7 +59,6 @@ public class RegFormTest {
         $(".table-responsive").shouldHave(text(firstName), text(lastName), text(userMail), text("Male"), text(userNumber),
                 text("16 April,2000"), text("Economics"), text("Computer Science"), text("Reading"), text(nameFile), text(currentAddress),
                 text("Rajasthan Jaipur"));
-
 
 
     }
