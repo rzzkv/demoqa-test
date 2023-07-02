@@ -1,4 +1,4 @@
-package locators;
+package cheatSheet;
 
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selectors.withText;

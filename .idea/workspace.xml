@@ -4,9 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c43ce4ad-af2d-450c-8b95-3e7bdfb6196b" name="Changes" comment="added regFormTest">
+    <list default="true" id="c43ce4ad-af2d-450c-8b95-3e7bdfb6196b" name="Changes" comment="added regFormTestWithComments">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cheatSheet/Snippets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenideTests/BestContributorToSelenide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenideTests/SelenideRepositorySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/selenideTests/SelenideSoftAssertionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/regForm/RegFormTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/regForm/RegFormTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/junit/FirstJUnitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/locators/CssXpathExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/regForm.RegFormTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/regForm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/RegFormTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/junit/FirstJUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/locators/CssXpathExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cheatSheet/CssXpathExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,21 +89,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jakhongirrazzakov/Desktop/IDEA/demoqa-test/src/test/java/homework&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jakhongirrazzakov/Desktop/IDEA/demoqa-test/src/test/java/locators&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/locators" />
       <recent name="$PROJECT_DIR$/src/test/java/homework" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RegFormTest.regFormTest (1)">
+  <component name="RunManager" selected="Gradle.SelenideSoftAssertionsTest">
     <configuration name="RegFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -153,7 +178,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="TextBoxTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SelenideRepositorySearch.shouldFindSelenideRepositoryAtTheTop" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -166,7 +191,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;demoqa.TextBoxTest&quot;" />
+            <option value="&quot;selenide.SelenideRepositorySearch.shouldFindSelenideRepositoryAtTheTop&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -177,7 +202,7 @@
       <ForceTestExec>true</ForceTestExec>
       <method v="2" />
     </configuration>
-    <configuration name="TextBoxTest.fillFormTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SelenideSoftAssertionsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -190,7 +215,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;demoqa.TextBoxTest.fillFormTest&quot;" />
+            <option value="&quot;selenide.SelenideSoftAssertionsTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -203,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SelenideSoftAssertionsTest" />
+        <item itemvalue="Gradle.SelenideRepositorySearch.shouldFindSelenideRepositoryAtTheTop" />
         <item itemvalue="Gradle.RegFormTest.regFormTest (1)" />
         <item itemvalue="Gradle.RegFormTest" />
         <item itemvalue="Gradle.RegFormTest.regFormTest" />
-        <item itemvalue="Gradle.TextBoxTest" />
-        <item itemvalue="Gradle.TextBoxTest.fillFormTest" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688057783111</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added regFormTestWithComments">
+      <created>1688107007552</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688107007552</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -271,6 +303,7 @@
     <MESSAGE value="added JUnit" />
     <MESSAGE value="added TextBoxTest" />
     <MESSAGE value="added regFormTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="added regFormTest" />
+    <MESSAGE value="added regFormTestWithComments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added regFormTestWithComments" />
   </component>
 </project>
